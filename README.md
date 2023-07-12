@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Metrohan</h1>
+<h1 align="center">Hi , I'm metrohan</h1>
 - 🔭 I’m currently working on **C++ and Python**
 
 - 📫 How to reach me **metehangunen34@outlook.com**
