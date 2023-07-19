@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning C++ and Python
+🔭 I’m currently working on Python and Arduino<br>🌱 I’m currently learning C++ and Python
 
 
 ## 🌐 Socials:
