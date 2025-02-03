@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on C++ and Python<br>🤝 I’m looking for help with changing position of my Note-It app<br>🌱 I’m currently learning Python, JS and C#
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/metehangunen) 
 
