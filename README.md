@@ -17,5 +17,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Metrohan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🛣️ Roadmap.sh
-![](https://roadmap.sh/card/tall/67b8f2f2a8c88d6e35dcf325?variant=dark&roadmaps=backend%2Cdata-analyst)
+[![roadmap.sh](https://roadmap.sh/card/wide/67b8f2f2a8c88d6e35dcf325?variant=dark)](https://roadmap.sh)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
