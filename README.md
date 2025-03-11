@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ENPAS Project<br>🌱 I’m currently learning javascript, node.js<br>
+🔭 I’m currently working on ENPAS Project<br>🌱 I’m currently learning javascript, node.js, c#<br>
 
 
 ## 🌐 Socials:
