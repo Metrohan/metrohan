@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on ENPAS Project<br>🌱 I’m currently learning javascript, node.js, c#<br>
 
+[![Spotify](https://novatorem-metehans-projects-dd2c0ea0.vercel.app/api/spotify)](https://open.spotify.com/user/attila6114?si=6d8ab9aac9b541ee)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehangunen/) 
