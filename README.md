@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on ENPAS Project<br>🌱 I’m currently learning javascript, node.js, c#<br>
+
+<img width="1743" height="697" alt="banner(1)" src="https://github.com/user-attachments/assets/b20207aa-a044-49d8-9a32-b82c10bd94c2" />
 
 [![Spotify](https://novatorem-metehans-projects-dd2c0ea0.vercel.app/api/spotify)](https://open.spotify.com/user/attila6114?si=6d8ab9aac9b541ee)
 
@@ -9,6 +9,7 @@
 <a href="https://twitter.com/metehangnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="metehangnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/metehangunen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="metehangunen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/metrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="metrohan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/metehangunen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="metehangunen" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
