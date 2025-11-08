@@ -8,7 +8,7 @@
 
 I am a final-year Computer Engineering student specializing in **Backend Development** and **IoT** with hands-on experience in API design, embedded systems, and real-time data processing.
 
-I am currently a **Researcher at i-Lab**, focusing on **biomedical applications of Artificial Intelligence** and developing innovative algorithms for healthcare.
+I am currently **Researcher at i-Lab**, focusing on **biomedical applications of Artificial Intelligence** and developing innovative algorithms for healthcare.
 
 ## 🔬 Key Focus Areas
 
