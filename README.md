@@ -80,7 +80,6 @@ I am currently **Researcher at i-Lab**, focusing on **biomedical applications of
 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/metehangnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="metehangnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/metehangunen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="metehangunen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/metrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="metrohan" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/metehangunen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="metehangunen" height="30" width="40" /></a>
