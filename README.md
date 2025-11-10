@@ -12,9 +12,9 @@ I am currently **Researcher at i-Lab**, focusing on **biomedical applications of
 
 ## 🔬 Key Focus Areas
 
-* **Research & AI:** Conducting research in biomedical applications of AI, embedded systems, and IoT solutions[cite: 11]. [cite_start]Focus areas include developing innovative algorithms for healthcare and exploring edge computing approaches for real-time biomedical data processing.
-* **Backend Development:** Expertise in scalable server-side applications[cite: 4]. [cite_start]I have built a scalable backend prototype using Node.js & Express, and designed/documented REST APIs.
-* **IoT & Embedded:** Experience in embedded systems and real-time data processing [cite: 3][cite_start], including Arduino and ESP32 integration.
+* **Research & AI:** Conducting research in biomedical applications of AI, embedded systems, and IoT solutions. Focus areas include developing innovative algorithms for healthcare and exploring edge computing approaches for real-time biomedical data processing.
+* **Backend Development:** Expertise in scalable server-side applications. I have built a scalable backend prototype using Node.js & Express, and designed/documented REST APIs.
+* **IoT & Embedded:** Experience in embedded systems and real-time data processing, including Arduino and ESP32 integration.
 
 ## 💻 Technical Skills & Stack
 
