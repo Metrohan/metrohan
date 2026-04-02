@@ -8,7 +8,7 @@
 
 I’m a final-year **Computer Engineering** student focused on building practical systems at the intersection of **AI, backend development, embedded systems, and computer vision**.
 
-Currently, I work as a **Researcher at i-Lab**, where I develop software and AI-driven solutions for real-world healthcare and laboratory workflows. My work spans from **API design and full-stack systems** to **edge-device integrations**, **image processing**, and **medical/biomedical AI applications**.
+Currently, I work as a **Network Administrator at Pievision** and **Researcher at i-Lab**, where I develop software and AI-driven solutions for real-world healthcare and laboratory workflows. My work spans from **API design and full-stack systems** to **edge-device integrations**, **image processing**, and **medical/biomedical AI applications**.
 
 I enjoy building products that are not only technically solid, but also actually useful in real operational environments.
 
