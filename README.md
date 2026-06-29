@@ -6,11 +6,13 @@
 
 # 👋 Hi, I'm Metehan Günen
 
-I’m a final-year **Computer Engineering** student and **Network Administrator** with hands-on experience in **computer networks, Linux systems, backend development, embedded systems, and applied computer vision**.
+I’m a Computer Engineering graduate focused on computer networks, embedded systems, IoT, and Linux-based infrastructure.
 
-Currently, I work as a **Network Administrator at Pievision** and as a **Researcher at i-LAB**, where I contribute to software, infrastructure, and AI-assisted systems for real-world laboratory and healthcare workflows.
+I currently work as a Network Administrator at Pievision and as a Researcher at i-LAB, where I contribute to network operations, software infrastructure, edge-device pipelines, and applied computer vision systems for real-world workflows.
 
-I enjoy building systems that connect **software, infrastructure, data, and hardware** — from backend platforms and APIs to edge-device pipelines and computer vision prototypes.
+I enjoy building end-to-end systems that connect hardware, networks, backend services, and data — from embedded devices and communication protocols to APIs, monitoring systems, and edge computing applications.
+
+My current focus is deepening my expertise in network engineering, embedded Linux, IoT architectures, edge computing, and reliable connected systems.
 
 ---
 
