@@ -1,192 +1,289 @@
-<img width="1743" height="697" alt="banner" src="https://github.com/user-attachments/assets/b20207aa-a044-49d8-9a32-b82c10bd94c2" />
+<img width="1743" height="697" alt="Metehan Günen GitHub Profile Banner" src="https://github.com/user-attachments/assets/b20207aa-a044-49d8-9a32-b82c10bd94c2" />
+
+<div align="center">
+
+# Hi, I'm Metehan Günen 👋
+
+### Computer Engineer · Network Administrator · Backend & IoT Developer
+
+I build connected systems that bring together  
+**Linux infrastructure, backend services, embedded devices, networking, and computer vision.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-metrohan.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://metrohan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Metehan_Günen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehangunen/)
+[![TechEventRadar](https://img.shields.io/badge/Project-TechEventRadar-6C63FF?style=for-the-badge&logo=rocket&logoColor=white)](https://eventradar.dev/)
 
 [![Listen on Spotify](https://novatorem-metehans-projects-dd2c0ea0.vercel.app/api/spotify)](https://open.spotify.com/user/attila6114?si=6d8ab9aac9b541ee)
 
----
-
-# 👋 Hi, I'm Metehan Günen
-
-I’m a Computer Engineering graduate focused on computer networks, embedded systems, IoT, and Linux-based infrastructure.
-
-I currently work as a Network Administrator at Pievision and as a Researcher at i-LAB, where I contribute to network operations, software infrastructure, edge-device pipelines, and applied computer vision systems for real-world workflows.
-
-I enjoy building end-to-end systems that connect hardware, networks, backend services, and data — from embedded devices and communication protocols to APIs, monitoring systems, and edge computing applications.
-
-My current focus is deepening my expertise in network engineering, embedded Linux, IoT architectures, edge computing, and reliable connected systems.
+</div>
 
 ---
 
-## 🚀 Focus Areas
+## About Me
 
-* **Network & System Administration**
-  Working with Linux servers, network infrastructure, troubleshooting, monitoring, and deployment workflows.
+I am a Computer Engineering graduate working at the intersection of **network infrastructure, Linux systems, backend development, embedded devices, IoT, and applied computer vision**.
 
-* **Backend & Full-Stack Systems**
-  Building APIs, dashboards, authentication flows, role-based platforms, and workflow-oriented web applications.
+I currently work as a **Network Administrator at Pievision** and contribute to research and engineering projects at **i-LAB**. My work includes network operations, Linux-based infrastructure, backend services, deployment workflows, edge-device integrations, and computer vision systems designed for real operational environments.
 
-* **Computer Vision & Biomedical AI**
-  Developing AI-assisted systems for image processing, segmentation, instrument analysis, and damage detection.
+I particularly enjoy building end-to-end systems in which:
 
-* **Embedded Systems & IoT**
-  Integrating Raspberry Pi, ESP32, sensors, cameras, barcode/QR readers, and device-to-cloud pipelines.
+- embedded devices collect data,
+- networks and protocols move that data reliably,
+- backend services process and manage it,
+- dashboards make it usable,
+- and monitoring tools keep the entire system observable.
 
-* **Applied Research & Prototyping**
-  Turning research ideas into practical prototypes that combine software, hardware, and data-driven intelligence.
-
----
-
-## 🔬 Current Interests
-
-* Network Administration & IT Infrastructure
-* Linux Server Administration
-* Backend Architecture & API Design
-* Computer Vision & Image Processing
-* Medical / Biomedical AI
-* Embedded Systems & IoT
-* Edge AI and Device Integration
-* Data Pipelines & Workflow Automation
-* Human-centered engineering for real-world systems
+My current goal is to deepen my expertise in **network engineering, embedded Linux, IoT architectures, edge computing, distributed systems, and reliable connected infrastructure**.
 
 ---
 
-## 🛠 Tech Stack
+## What I Work On
 
-### Network, Systems & DevOps
+### Network & Linux Infrastructure
 
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+Linux server administration, network troubleshooting, service deployment, monitoring, reverse proxies, containerized environments, and reliable infrastructure operations.
 
-### Languages
+### Backend & Platform Engineering
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+REST APIs, authentication systems, role-based access control, dashboards, workflow-oriented applications, data pipelines, and service integrations.
 
-### Backend, Web & Databases
+### Embedded Systems & IoT
 
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge\&logo=express\&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316198.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+Raspberry Pi and ESP32 integrations, industrial and embedded cameras, sensors, barcode systems, serial communication, edge-device software, and device-to-cloud pipelines.
 
-### AI / ML / Computer Vision
+### Computer Vision & Biomedical AI
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge\&logo=opencv\&logoColor=5C3EE8)
-![YOLO](https://img.shields.io/badge/yolo-111111?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+Image acquisition, object detection, segmentation, OCR, model-assisted decision systems, and healthcare-oriented computer vision prototypes.
 
-### Embedded / IoT
+### Applied Research & Prototyping
 
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FF6F00.svg?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge\&logo=android-studio\&logoColor=white)
+Turning research concepts into functional systems by combining software, hardware, networking, data, and real-world workflow requirements.
 
 ---
 
-## 📌 Featured Projects
+## Currently Exploring
 
-### [TechEventRadar](https://eventradar.dev/)
+- Advanced network administration and network automation
+- Embedded Linux and edge-device management
+- IoT communication architectures
+- Edge AI and computer vision deployment
+- Observability with Prometheus and Grafana
+- Reliable backend and distributed system design
+- Device-to-cloud communication pipelines
+- Homelab infrastructure and self-hosted services
 
-A platform that aggregates **tech events, bootcamps, hackathons, and training opportunities in Turkey** to help students and early-career developers discover valuable opportunities more easily.
+---
 
-**Highlights:**
+## Selected Projects
 
-* Backend built with **FastAPI**
-* Frontend built with **React + Vite**
-* Responsive interface with dark/light theme support
-* Event scraping and data aggregation pipeline
-* Curated section for free learning resources
+### CERAHİS — Surgical Instrument Analysis and Reporting System
 
-### Laboratory Project Management & Research Platforms
-
-I contribute to internal platforms for managing laboratory workflows, research projects, users, data, and operational processes.
-
-These systems involve:
-
-* Role-based access control and dashboards
-* API design and integration
-* Authentication and authorization flows
-* Workflow automation
-* Data management and reporting
-* Deployment and infrastructure configuration
-
-### Surgical Instrument AI Pipeline
-
-An end-to-end prototype for surgical instrument identification, image capture, analysis, and reporting.
+An end-to-end biomedical engineering prototype designed to identify, inspect, track, and report surgical instruments.
 
 The system combines:
 
-* Barcode / QR-based instrument identification
-* Edge-device image capture
-* Device-to-cloud data transfer
-* Image processing and segmentation
-* Computer vision-assisted damage detection
-* Practical healthcare workflow design
+- surgical instrument detection and image segmentation,
+- computer vision-assisted damage analysis,
+- barcode, QR, and OCR-based identification,
+- Raspberry Pi 5 edge processing,
+- Hikvision/Hikrobot industrial camera integration,
+- backend-based decision and reporting workflows,
+- inventory and sterilization-cycle tracking,
+- and a web dashboard for operational management.
+
+The project focuses not only on AI accuracy, but also on integrating computer vision into a practical healthcare workflow.
+
+**Core technologies:** Python, YOLO, OpenCV, FastAPI, React, Raspberry Pi, industrial cameras, Docker
 
 ---
 
-## 📊 GitHub Stats
+### TechEventRadar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metrohan&theme=radical&hide_border=false&show_icons=true&locale=en" alt="metrohan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metrohan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="metrohan" />
-</p>
+[TechEventRadar](https://eventradar.dev/) is a platform that aggregates technology events, bootcamps, hackathons, conferences, and educational opportunities in Turkey.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metrohan&theme=radical&hide_border=false" alt="metrohan" />
-</p>
+It was created to help students and early-career developers discover relevant opportunities without searching across dozens of separate platforms.
+
+**Highlights:**
+
+- FastAPI backend
+- React and Vite frontend
+- PostgreSQL database
+- Docker-based deployment
+- Event scraping and aggregation pipelines
+- Responsive dark and light interfaces
+- Curated free-learning resources
+- Search and filtering workflows
+
+**Core technologies:** FastAPI, React, PostgreSQL, Docker, Python
 
 ---
 
-## 🏆 Extras
 
-![](https://github-profile-trophy.vercel.app/?username=Metrohan\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+### Warehouse Vision and Automation Systems
+
+Computer vision and device-integration prototypes for warehouse and industrial workflows.
+
+These systems include:
+
+- barcode and QR recognition,
+- OCR fallback pipelines,
+- SAP and backend validation,
+- industrial camera integration,
+- conveyor and diverter workflows,
+- reject-bin handling,
+- and real-time operational feedback.
+
+**Core technologies:** Python, OpenCV, YOLO, OCR, industrial cameras, edge devices
+
+---
+
+### EVNODE Homelab
+
+A personal Linux homelab built from repurposed hardware to experiment with server administration, networking, monitoring, automation, and self-hosted services.
+
+Services and areas of experimentation include:
+
+- Debian server administration,
+- Pi-hole,
+- CUPS print services,
+- Tailscale networking,
+- Cockpit,
+- Docker workloads,
+- remote access,
+- network troubleshooting,
+- hardware upgrades,
+- and automated service recovery.
+
+This environment serves as a practical testing ground for infrastructure and system administration concepts.
+
+---
+
+## Engineering Interests
+
+```text
+Networking        Linux Infrastructure    Backend Engineering
+Embedded Linux    IoT Architectures       Edge Computing
+Computer Vision   Biomedical Systems      Observability
+System Design     Workflow Automation     Applied Research
+```
+
+---
+
+## Tech Stack
+
+### Network, Systems & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Backend, Web & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316198?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI, Machine Learning & Computer Vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Embedded Systems & IoT
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Metrohan&theme=radical&hide_border=true&show_icons=true&locale=en" alt="Metehan Günen GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Metrohan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Metrohan&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+> GitHub language statistics represent the contents of public repositories and do not necessarily reflect overall proficiency.
+
+---
+
+## Achievements & Learning
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Metrohan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+<br />
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67b8f2f2a8c88d6e35dcf325?variant=dark)](https://roadmap.sh)
 
+</div>
+
 ---
 
-## 🌍 Connect With Me
+## Find Me Online
 
 <p align="left">
   <a href="https://www.linkedin.com/in/metehangunen/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="metehangunen" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="42" />
   </a>
   <a href="https://metrohan.github.io" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="portfolio" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="32" width="42" />
+  </a>
+  <a href="https://github.com/Metrohan" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32" width="42" />
   </a>
   <a href="https://www.hackerrank.com/metrohan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="metrohan" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" height="32" width="42" />
   </a>
   <a href="https://www.kaggle.com/metehangunen" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="metehangunen" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" height="32" width="42" />
   </a>
 </p>
 
 ---
 
-## ✨ A Short Note
+## A Short Note
 
-I like building practical systems that connect **software, infrastructure, data, and hardware**.
+I enjoy engineering systems that connect **hardware, software, networks, infrastructure, and data**.
 
-Whether it is a networked backend platform, an embedded device pipeline, or an AI-assisted healthcare prototype, I enjoy turning complex ideas into working systems that can be used in real environments.
+Whether I am working on a Linux server, a backend platform, an embedded device, or a computer vision pipeline, my goal is the same: understand the entire system, design it carefully, and turn the idea into something that can operate reliably in the real world.
+
+</div>
