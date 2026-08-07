@@ -118,46 +118,6 @@ It was created to help students and early-career developers discover relevant op
 
 ---
 
-
-### Warehouse Vision and Automation Systems
-
-Computer vision and device-integration prototypes for warehouse and industrial workflows.
-
-These systems include:
-
-- barcode and QR recognition,
-- OCR fallback pipelines,
-- SAP and backend validation,
-- industrial camera integration,
-- conveyor and diverter workflows,
-- reject-bin handling,
-- and real-time operational feedback.
-
-**Core technologies:** Python, OpenCV, YOLO, OCR, industrial cameras, edge devices
-
----
-
-### EVNODE Homelab
-
-A personal Linux homelab built from repurposed hardware to experiment with server administration, networking, monitoring, automation, and self-hosted services.
-
-Services and areas of experimentation include:
-
-- Debian server administration,
-- Pi-hole,
-- CUPS print services,
-- Tailscale networking,
-- Cockpit,
-- Docker workloads,
-- remote access,
-- network troubleshooting,
-- hardware upgrades,
-- and automated service recovery.
-
-This environment serves as a practical testing ground for infrastructure and system administration concepts.
-
----
-
 ## Engineering Interests
 
 ```text
