@@ -4,7 +4,7 @@
 
 # Hi, I'm Metehan Günen 👋
 
-### Computer Engineer · Network Administrator · Backend & IoT Developer
+### MSc Biomedical Engineering Student @ Boğaziçi University · Network Administrator · Backend & IoT Developer
 
 I build connected systems that bring together  
 **Linux infrastructure, backend services, embedded devices, networking, and computer vision.**
@@ -21,7 +21,7 @@ I build connected systems that bring together
 
 ## About Me
 
-I am a Computer Engineering graduate working at the intersection of **network infrastructure, Linux systems, backend development, embedded devices, IoT, and applied computer vision**.
+I am a Computer Engineering graduate now pursuing an **MSc in Biomedical Engineering at Boğaziçi University** (starting September 2026), working at the intersection of **network infrastructure, Linux systems, backend development, embedded devices, IoT, and applied computer vision**.
 
 I currently work as a **Network Administrator at Pievision** and contribute to research and engineering projects at **i-LAB**. My work includes network operations, Linux-based infrastructure, backend services, deployment workflows, edge-device integrations, and computer vision systems designed for real operational environments.
 
