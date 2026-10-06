@@ -25,7 +25,7 @@
 [ OK ] computer_engineering.service
 [ OK ] network_admin.service
 [ OK ] embedded_linux.service
-[ OK ] biomedical_engineering.msc
+[ .. ] biomedical_engineering.msc
 [ .. ] learning_everything_else...
 ```
 
