@@ -1,249 +1,240 @@
-<img width="1743" height="697" alt="Metehan Günen GitHub Profile Banner" src="https://github.com/user-attachments/assets/b20207aa-a044-49d8-9a32-b82c10bd94c2" />
-
 <div align="center">
 
-# Hi, I'm Metehan Günen 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0f172a,70:0f766e,100:22d3ee&text=Metehan%20G%C3%BCnen&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Embedded%20Systems%20%E2%80%A2%20Networks%20%E2%80%A2%20Linux%20%E2%80%A2%20Edge%20Computing&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Metehan Günen header" />
 
-### MSc Biomedical Engineering Student @ Boğaziçi University · Network Administrator · Backend & IoT Developer
-
-I build connected systems that bring together  
-**Linux infrastructure, backend services, embedded devices, networking, and computer vision.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-metrohan.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://metrohan.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Metehan_Günen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehangunen/)
-[![TechEventRadar](https://img.shields.io/badge/Project-TechEventRadar-6C63FF?style=for-the-badge&logo=rocket&logoColor=white)](https://eventradar.dev/)
-
-[![Listen on Spotify](https://novatorem-metehans-projects-dd2c0ea0.vercel.app/api/spotify)](https://open.spotify.com/user/attila6114?si=6d8ab9aac9b541ee)
-
-</div>
-
----
-
-## About Me
-
-I am a Computer Engineering graduate now pursuing an **MSc in Biomedical Engineering at Boğaziçi University** (starting September 2026), working at the intersection of **network infrastructure, Linux systems, backend development, embedded devices, IoT, and applied computer vision**.
-
-I currently work as a **Network Administrator at Pievision** and contribute to research and engineering projects at **i-LAB**. My work includes network operations, Linux-based infrastructure, backend services, deployment workflows, edge-device integrations, and computer vision systems designed for real operational environments.
-
-I particularly enjoy building end-to-end systems in which:
-
-- embedded devices collect data,
-- networks and protocols move that data reliably,
-- backend services process and manage it,
-- dashboards make it usable,
-- and monitoring tools keep the entire system observable.
-
-My current goal is to deepen my expertise in **network engineering, embedded Linux, IoT architectures, edge computing, distributed systems, and reliable connected infrastructure**.
-
----
-
-## What I Work On
-
-### Network & Linux Infrastructure
-
-Linux server administration, network troubleshooting, service deployment, monitoring, reverse proxies, containerized environments, and reliable infrastructure operations.
-
-### Backend & Platform Engineering
-
-REST APIs, authentication systems, role-based access control, dashboards, workflow-oriented applications, data pipelines, and service integrations.
-
-### Embedded Systems & IoT
-
-Raspberry Pi and ESP32 integrations, industrial and embedded cameras, sensors, barcode systems, serial communication, edge-device software, and device-to-cloud pipelines.
-
-### Computer Vision & Biomedical AI
-
-Image acquisition, object detection, segmentation, OCR, model-assisted decision systems, and healthcare-oriented computer vision prototypes.
-
-### Applied Research & Prototyping
-
-Turning research concepts into functional systems by combining software, hardware, networking, data, and real-world workflow requirements.
-
----
-
-## Currently Exploring
-
-- Advanced network administration and network automation
-- Embedded Linux and edge-device management
-- IoT communication architectures
-- Edge AI and computer vision deployment
-- Observability with Prometheus and Grafana
-- Reliable backend and distributed system design
-- Device-to-cloud communication pipelines
-- Homelab infrastructure and self-hosted services
-
----
-
-## Selected Projects
-
-### CERAHİS — Surgical Instrument Analysis and Reporting System
-
-An end-to-end biomedical engineering prototype designed to identify, inspect, track, and report surgical instruments.
-
-The system combines:
-
-- surgical instrument detection and image segmentation,
-- computer vision-assisted damage analysis,
-- barcode, QR, and OCR-based identification,
-- Raspberry Pi 5 edge processing,
-- Hikvision/Hikrobot industrial camera integration,
-- backend-based decision and reporting workflows,
-- inventory and sterilization-cycle tracking,
-- and a web dashboard for operational management.
-
-The project focuses not only on AI accuracy, but also on integrating computer vision into a practical healthcare workflow.
-
-**Core technologies:** Python, YOLO, OpenCV, FastAPI, React, Raspberry Pi, industrial cameras, Docker
-
----
-
-### TechEventRadar
-
-[TechEventRadar](https://eventradar.dev/) is a platform that aggregates technology events, bootcamps, hackathons, conferences, and educational opportunities in Turkey.
-
-It was created to help students and early-career developers discover relevant opportunities without searching across dozens of separate platforms.
-
-**Highlights:**
-
-- FastAPI backend
-- React and Vite frontend
-- PostgreSQL database
-- Docker-based deployment
-- Event scraping and aggregation pipelines
-- Responsive dark and light interfaces
-- Curated free-learning resources
-- Search and filtering workflows
-
-**Core technologies:** FastAPI, React, PostgreSQL, Docker, Python
-
----
-
-## Engineering Interests
-
-```text
-Networking        Linux Infrastructure    Backend Engineering
-Embedded Linux    IoT Architectures       Edge Computing
-Computer Vision   Biomedical Systems      Observability
-System Design     Workflow Automation     Applied Research
-```
-
----
-
-## Tech Stack
-
-### Network, Systems & DevOps
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Backend, Web & Databases
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316198?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI, Machine Learning & Computer Vision
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Embedded Systems & IoT
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Metrohan&theme=radical&hide_border=true&show_icons=true&locale=en" alt="Metehan Günen GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Metrohan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Metrohan&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-> GitHub language statistics represent the contents of public repositories and do not necessarily reflect overall proficiency.
-
----
-
-## Achievements & Learning
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Metrohan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+computer+engineer;building+from+device+%E2%86%92+network+%E2%86%92+backend;embedded+linux+%7C+IoT+%7C+network+engineering;making+hardware+and+software+meet+in+the+real+world" alt="Animated intro" />
 
 <br />
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67b8f2f2a8c88d6e35dcf325?variant=dark)](https://roadmap.sh)
+<a href="https://metrohan.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" /></a>
+<a href="https://www.linkedin.com/in/metehangunen/"><img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="https://eventradar.dev/"><img src="https://img.shields.io/badge/TECH_EVENT_RADAR-0f172a?style=for-the-badge&logo=rocket&logoColor=22d3ee" /></a>
+<a href="https://github.com/Metrohan"><img src="https://komarev.com/ghpvc/?username=Metrohan&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" /></a>
+
+<br /><br />
+
+[![Currently listening](https://novatorem-metehans-projects-dd2c0ea0.vercel.app/api/spotify)](https://open.spotify.com/user/attila6114?si=6d8ab9aac9b541ee)
 
 </div>
 
 ---
 
-## Find Me Online
+## `> boot --profile`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/metehangunen/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="42" />
-  </a>
-  <a href="https://metrohan.github.io" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="32" width="42" />
-  </a>
-  <a href="https://github.com/Metrohan" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32" width="42" />
-  </a>
-  <a href="https://www.hackerrank.com/metrohan" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" height="32" width="42" />
-  </a>
-  <a href="https://www.kaggle.com/metehangunen" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" height="32" width="42" />
-  </a>
-</p>
+```text
+[ OK ] computer_engineering.service
+[ OK ] network_admin.service
+[ OK ] embedded_linux.service
+[ OK ] biomedical_engineering.msc
+[ .. ] learning_everything_else...
+```
+
+I build connected systems from the **device layer** all the way to the **services behind it**.
+
+My work sits around the intersection of **embedded systems, networking, Linux infrastructure, IoT, edge computing, backend systems and applied computer vision**. I like projects where software eventually has to touch something real: a sensor, a camera, a network, a machine, or an operational workflow.
+
+Currently:
+
+- **Network Administrator** at Pievision
+- **MSc Biomedical Engineering** student at Boğaziçi University
+- Research & engineering contributor in **i-LAB**
+- Going deeper into **embedded Linux, network automation, IoT architectures and edge systems**
 
 ---
 
-## A Short Note
+## `> systemctl status interests.target`
 
-I enjoy engineering systems that connect **hardware, software, networks, infrastructure, and data**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Whether I am working on a Linux server, a backend platform, an embedded device, or a computer vision pipeline, my goal is the same: understand the entire system, design it carefully, and turn the idea into something that can operate reliably in the real world.
+### ⚡ Embedded & Edge
+
+`ESP32` · `Raspberry Pi` · `Embedded Linux` · `Sensors` · `Industrial Cameras` · `Serial` · `MQTT`
+
+Building devices that **sense, communicate, process and act**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Networks & Linux
+
+`Linux` · `Routing` · `Troubleshooting` · `Nginx` · `Docker` · `Monitoring` · `Self-hosting`
+
+Keeping systems **reachable, observable and boringly reliable**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Backend Systems
+
+`FastAPI` · `Node.js` · `PostgreSQL` · `REST` · `Auth` · `Data Pipelines`
+
+Turning devices and data into **usable workflows and services**.
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Applied Computer Vision
+
+`YOLO` · `OpenCV` · `OCR` · `Detection` · `Segmentation` · `Edge AI`
+
+Making cameras do something more useful than just **taking pictures**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ls ./projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 CERAHİS
+**Surgical Instrument Analysis & Tracking**
+
+Biomedical engineering system for instrument inspection, identification and lifecycle tracking.
+
+**Pipeline**
+
+`camera → detection → crop → barcode/OCR → validation → workflow`
+
+**Stack**
+
+`Python` `YOLO` `OpenCV` `FastAPI` `React` `Raspberry Pi 5` `Docker`
+
+**What makes it interesting**
+
+- industrial camera + edge processing
+- damage / instrument analysis
+- barcode, QR and OCR identification
+- inventory & sterilization-cycle workflows
+- real operational constraints, not just a demo notebook
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 TechEventRadar
+**Tech opportunities, without the tab chaos**
+
+A platform that aggregates events, bootcamps, hackathons, conferences and learning opportunities across Türkiye.
+
+**Pipeline**
+
+`collect → normalize → index → filter → discover`
+
+**Stack**
+
+`FastAPI` `React` `Vite` `PostgreSQL` `Docker` `Python`
+
+**What makes it interesting**
+
+- event aggregation pipelines
+- search and filtering
+- responsive light/dark UI
+- deployed as a real public product
+
+<br />
+
+➡️ **[eventradar.dev](https://eventradar.dev/)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat /proc/skills`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,docker,nginx,grafana,prometheus&perline=8" alt="Systems skills" />
+<br />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,fastapi,react,postgres&perline=8" alt="Development skills" />
+<br />
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,pytorch,git,github,vscode&perline=8" alt="Embedded and tooling skills" />
+
+</div>
+
+<details>
+<summary><b>show full toolbox</b></summary>
+<br />
+
+**Embedded / IoT** — ESP32, Raspberry Pi, Arduino, MQTT, sensors, cameras, serial communication, embedded Linux
+
+**Infrastructure** — Linux, Debian, Ubuntu, Docker, Nginx, Bash, Prometheus, Grafana, self-hosted services
+
+**Backend / Data** — Python, FastAPI, Node.js, PostgreSQL, REST APIs, authentication, workflow systems
+
+**Vision / ML** — OpenCV, YOLO, PyTorch, OCR, detection, segmentation, edge inference
+
+</details>
+
+---
+
+## `> ./pacman --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Metrohan/Metrohan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Metrohan/Metrohan/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating Metehan's GitHub contributions" src="https://raw.githubusercontent.com/Metrohan/Metrohan/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>yes, the commits are edible.</sub>
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Metrohan&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=22d3ee&icon_color=14b8a6&text_color=94a3b8" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Metrohan&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Metrohan&hide_border=true&background=00000000&ring=22D3EE&fire=FACC15&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak" />
+
+</div>
+
+<sub>Public-repository language stats describe repository contents, not overall proficiency.</sub>
+
+---
+
+## `> roadmap --next`
+
+```text
+embedded linux     █████████████████░░░
+network automation ███████████████░░░░░
+edge computing     ████████████████░░░░
+iot architectures  ███████████████░░░░░
+computer arch.     ███████████░░░░░░░░░
+observability      ██████████████░░░░░░
+```
+
+`Embedded Linux` · `Network Automation` · `Edge Computing` · `IoT Architecture` · `Computer Architecture` · `Observability` · `Distributed Systems`
+
+---
+
+## `> ping metehan`
+
+<div align="center">
+
+**[Portfolio](https://metrohan.github.io)** · **[LinkedIn](https://www.linkedin.com/in/metehangunen/)** · **[GitHub](https://github.com/Metrohan)** · **[HackerRank](https://www.hackerrank.com/metrohan)** · **[Kaggle](https://www.kaggle.com/metehangunen)**
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22d3ee,50:0f766e,100:020617" width="100%" alt="Footer" />
+
+<sub><code>devices → networks → linux → services → useful systems</code></sub>
 
 </div>
